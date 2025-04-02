@@ -1,5 +1,5 @@
 # Tesla Clone
 
-This project was build by Vadim during this [live stream](https://www.youtube.com/watch?v=UzdN1Xj8iq8)
-
-Follow the step by step guid on notJust.dev: [Let's build the Tesla app with React Native](https://www.notjust.dev/projects/tesla-clone-with-react-native)
+![Screenshot 2025-04-02 163423](https://github.com/user-attachments/assets/322698b6-6a28-475f-a1b6-347ad1ec9158)
+![Screenshot 2025-04-02 163446](https://github.com/user-attachments/assets/e2e6b625-df80-4dfe-bb74-b6af4127ee2d)
+![Screenshot 2025-04-02 163517](https://github.com/user-attachments/assets/26bca8e7-3a05-49ab-bc26-9b14b577fb0f)
